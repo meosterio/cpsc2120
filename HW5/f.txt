@@ -1,0 +1,20 @@
+academic_success_center 34.6758 -82.8358
+clemson_exchange 34.6761 -82.8313
+amphitheater 34.6783 -82.8362
+einstein_bros 34.6763 -82.8319
+botanical_gardens 34.6738 -82.8239
+fernow_st_cafe 34.6766 -82.8381
+brooks_center 34.6736 -82.8361
+schilleter_dining_hall 34.6769 -82.8329
+death_valley 34.6788 -82.8432
+starbucks 34.6768 -82.8366
+fike_recreation_center 34.6807 -82.842
+twisted_taco 34.6794 -82.8395
+fort_hill 34.678 -82.839
+wendy's 34.6771 -82.833
+littlejohn_collosium 34.6804 -82.8464
+mcadams_hall 34.6759 -82.8345
+president's_home 34.6784 -82.8309
+redfern 34.6759 -82.8336
+ 2.122e-314 3.16202e-322
+Total tour distance: 0.0962858
